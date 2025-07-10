@@ -1,0 +1,1 @@
+# jams-mc.resourcepack
